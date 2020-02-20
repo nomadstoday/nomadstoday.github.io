@@ -4,3 +4,4 @@
 
 /.vs/slnx.sqlite
 /.vs/nomadstoday.github.io/config/applicationhost.config
+*.suo
